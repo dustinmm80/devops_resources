@@ -66,6 +66,8 @@ A list of DevOps resources - podcasts, blogs, newsletters, etc
 
 [Tom Duffield](https://tomduffield.com/)
 
+[Charlie Hsu](https://charliephsu.github.io/)
+
 ## Videos
 
 [devopsdays on Vimeo](http://vimeo.com/user9086015/albums)
