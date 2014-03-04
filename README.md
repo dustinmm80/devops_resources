@@ -48,6 +48,8 @@ A list of DevOps resources - podcasts, blogs, newsletters, etc
 
 [Chad Fowler](http://chadfowler.com/)
 
+[James Betteley](http://devopsnet.com/)
+
 [Joe Hirn](http://www.devmynd.com/blog/author/joe-hirn)
 
 [John Allspaw](http://www.kitchensoap.com/)
