@@ -4,8 +4,6 @@ A list of DevOps resources - podcasts, blogs, newsletters, etc
 
 ---
 
-# DevOps Resources
-
 ## Podcasts
 
 [Arrested DevOps](http://www.arresteddevops.com/)
