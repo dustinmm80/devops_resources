@@ -75,3 +75,5 @@ A list of DevOps resources - podcasts, blogs, newsletters, etc
 ## Newsletters
 
 [DevOps Weekly](http://devopsweekly.com/)
+
+[UsingChef](http://usingchef.com/)
