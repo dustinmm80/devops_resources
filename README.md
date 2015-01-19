@@ -10,6 +10,10 @@ A list of DevOps resources - podcasts, blogs, newsletters, etc
 
 [DevOps Cafe](http://devopscafe.org/)
 
+[DevOps Mastery](http://www.devopsmastery.com/)
+
+[Ops All The Things!](http://www.opsallthethings.com/)
+
 [Puppet Labs Podcast](http://puppetlabs.com/resources/podcasts)
 
 [The Cloudcast](http://www.thecloudcast.net/)
