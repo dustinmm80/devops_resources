@@ -62,6 +62,8 @@ A list of DevOps resources - podcasts, blogs, newsletters, etc
 
 [Len Lagestee](http://blog.lusis.org/)
 
+[Richardson Lima](http://blog.richardsonlima.com.br/)
+
 [Mike Fiedler](http://www.miketheman.net/)
 
 [Nathen Harvey](http://nathenharvey.com/)
