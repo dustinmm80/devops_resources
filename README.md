@@ -74,6 +74,10 @@ A list of DevOps resources - podcasts, blogs, newsletters, etc
 
 [Charlie Hsu](https://charliephsu.github.io/)
 
+## Guides
+
+[What is DevOps? The Beginner’s Guide from Logz.io](http://logz.io/learn/what-is-devops/)
+
 ## Videos
 
 [devopsdays on Vimeo](http://vimeo.com/user9086015/albums)
